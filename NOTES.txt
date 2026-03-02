@@ -1,0 +1,31 @@
+git add .
+
+git commit -m "initial commit"
+
+git push -u origin main
+
+*--------------------------------*
+
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+int main()
+{
+    return 0;
+}
+*--------------------------------*
+
+vector<int> arr = {1, 3, 5, 6};
+int size = arr.size();
+
+*--------------------------------*
+
+explain above code by iterating through each step
+
+1)unionArr[unionSize++]=arr1[i];
+
+=> unionArr[unionSize] = arr1[i];
+unionSize++;
+
