@@ -1,0 +1,59 @@
+Find the maximum element in an array.-done
+
+Count the number of even and odd numbers in a list.-done
+
+Reverse a given string.-done
+
+Check if a number is prime.-done
+
+Print the Fibonacci sequence up to N terms.-done
+
+Find the second largest element in an array.-done
+
+Check if a string is a palindrome.-done
+
+Sort an array using bubble sort.-done
+
+Find the sum of digits of a number.-done
+
+Calculate the factorial of a number.-done
+
+Merge two sorted arrays into one.-done
+
+Count the frequency of elements in an array.-done
+
+Find the missing number in a range from 1 to N.-done
+
+Check if two strings are anagrams.-done
+
+Remove duplicate elements from an array.-done
+
+Find the largest sum subarray (Kadane’s Algorithm).-done
+
+Check if a number is an Armstrong number.-done
+
+Rotate an array to the left by K steps.-done 
+
+Find the intersection of two arrays.-done 
+
+Move all zeros to the end of an array.-done
+
+Implement binary search on a sorted array.-done
+
+Check if a number is a perfect square.-done
+
+Count vowels and consonants in a string.
+
+Find the GCD of two numbers.
+
+Convert a binary number to decimal.
+
+Find the first non-repeating character in a string.
+
+Implement a stack using arrays.
+
+Implement a queue using two stacks.
+
+Check if brackets are balanced in an expression.
+
+Find the majority element in an array (if any).
