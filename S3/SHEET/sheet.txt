@@ -42,18 +42,16 @@ Implement binary search on a sorted array.-done
 
 Check if a number is a perfect square.-done
 
-Count vowels and consonants in a string.
+Count vowels and consonants in a string.-done
 
-Find the GCD of two numbers.
+Find the GCD of two numbers.-done
 
-Convert a binary number to decimal.
-
-Find the first non-repeating character in a string.
+Find the first non-repeating character in a string.-done
 
 Implement a stack using arrays.
 
 Implement a queue using two stacks.
 
-Check if brackets are balanced in an expression.
+Check if brackets are balanced in an expression.-done
 
-Find the majority element in an array (if any).
+Find the majority element in an array (if any).-done
