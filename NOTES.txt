@@ -29,3 +29,5 @@ explain above code by iterating through each step
 => unionArr[unionSize] = arr1[i];
 unionSize++;
 
+------------------------------
+NC= Neet code 
