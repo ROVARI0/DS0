@@ -9,6 +9,7 @@ using namespace std;
 string getFrequencyString(const string &str)
 {
     vector<int> freq(26, 0);
+    //count frequency of each character in string
     for (char c : str)
     {
         freq[c - 'a']++;
