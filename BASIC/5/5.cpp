@@ -25,6 +25,19 @@ int main()
         sum += power;
         n /= 10;
     }
+
+    //     Before loop:
+    // power = 1
+
+    // i = 0:
+    // power = power * last = 1 * 5 = 5
+
+    // i = 1:
+    // power = 5 * 5 = 25
+
+    // i = 2:
+    // power = 25 * 5 = 125
+
     if (sum == temp)
     {
         cout << "Is armstrong number";
