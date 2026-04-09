@@ -1,0 +1,27 @@
+Largest Element
+
+Second Largest Element
+
+Check if the Array is Sorted II
+
+Remove duplicates from Sorted array
+
+Left Rotate Array by One
+
+Left Rotate Array by K Places
+
+Move Zeros to End
+
+Linear Search
+
+Union of two sorted arrays
+
+Find missing number
+
+Maximum Consecutive Ones
+
+Find the number that appears once, and other numbers twice
+
+Longest subarray with given sum K (positives)
+
+Longest subarray with sum K
