@@ -1,0 +1,25 @@
+Two Sum
+
+Sort an array of 0's 1's and 2's
+
+Majority Element-I
+
+Kadane's Algorithm (maximum subarray sum)
+
+Print subarray with maximum subarray sum
+
+Stock Buy and Sell
+
+Rearrange array elements by sign
+
+Leaders in an Array
+
+Longest Consecutive Sequence in an Array
+
+Set Matrix Zeroes
+
+Rotate matrix by 90 degrees
+
+Print the matrix in spiral manner
+
+Count subarrays with given sum
